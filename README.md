@@ -1,3 +1,6 @@
+                 - name: Add GitHub Sponsors to Readme
+                uses: JamesIves/github-sponsors-readme-action@v1.4.3
+            
 # Temgoua Temgoua Arthur
 
 🌟 Passionate about IT and software development, I aim to become one of the leading software developers in my country by enhancing my skills and contributing to innovative projects.
@@ -43,3 +46,4 @@ I am currently working on **the-real-devops-challenge**, aiming to enhance my De
 - **LinkedIn**: [Arthur TEMGOUA](https://www.linkedin.com/in/arthur-temgoua)
 - **Email**: arthurtemgouatemgoua@gmail.com
 - **Phone**: +237 652041922
+  
